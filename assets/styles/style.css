@@ -794,7 +794,7 @@ ul li::marker {
   }
 
   .nav-menu-btn {
-    background: url(/assets/images/menu-icon.png);
+    background: url(../images/menu-icon.png);
     background-size: 60px;
     background-position: center;
     width: 40px;
@@ -805,7 +805,7 @@ ul li::marker {
 
   .nav-close-btn {
     position: absolute;
-    background: url(/assets/images/close-icon.png);
+    background: url(../images/close-icon.png);
     background-size: 35px;
     background-position: center;
     width: 40px;
